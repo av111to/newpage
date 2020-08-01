@@ -27,7 +27,7 @@
   .close {
 	color: #aaaaaa;
 	float: right;
-	font-size: 28px;
+	font-size: 40px;
 	font-weight: bold;
   }
   
@@ -67,7 +67,7 @@
   .close2 {
 	color: #aaaaaa;
 	float: right;
-	font-size: 28px;
+	font-size: 40px;
 	font-weight: bold;
   }
   
@@ -108,7 +108,7 @@
   .close3 {
 	color: #aaaaaa;
 	float: right;
-	font-size: 28px;
+	font-size: 40px;
 	font-weight: bold;
   }
   
@@ -148,7 +148,7 @@
   .close4 {
 	color: #aaaaaa;
 	float: right;
-	font-size: 28px;
+	font-size: 40px;
 	font-weight: bold;
   }
   
@@ -161,6 +161,7 @@
 
   .satauri {
    text-align: center;
+   font-weight: bold;
   }
   .text {
 	 padding: 10px; 

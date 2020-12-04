@@ -159,6 +159,208 @@
 	cursor: pointer;
   }
 
+   /* modul 5,*/
+.modal5 {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content5 {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 70%;
+	height: flex;
+  }
+  
+  /* The Close Button */
+  .close5 {
+	color: #aaaaaa;
+	float: right;
+	font-size: 40px;
+	font-weight: bold;
+  }
+  
+  .close5:hover,
+  .close5:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+   /* modul 6 */
+.modal6 {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content6 {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 70%;
+	height: flex;
+  }
+  
+  /* The Close Button */
+  .close6 {
+	color: #aaaaaa;
+	float: right;
+	font-size: 40px;
+	font-weight: bold;
+  }
+  
+  .close6:hover,
+  .close6:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+   /* modul 7 */
+.modal7 {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content7 {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 70%;
+	height: flex;
+  }
+  
+  /* The Close Button */
+  .close7 {
+	color: #aaaaaa;
+	float: right;
+	font-size: 40px;
+	font-weight: bold;
+  }
+  
+  .close7:hover,
+  .close7:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+   /* modul 8 */
+.modal8 {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content8 {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 70%;
+	height: flex;
+  }
+  
+  /* The Close Button */
+  .close8 {
+	color: #aaaaaa;
+	float: right;
+	font-size: 40px;
+	font-weight: bold;
+  }
+  
+  .close8:hover,
+  .close8:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+
+   /* modul 1, Konsul Honorowy Gruzji w Polsce */
+.modal1 {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content1 {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 60%;
+	height: flex;
+  }
+  
+  /* The Close Button */
+  .close1 {
+	color: #aaaaaa;
+	float: right;
+	font-size: 40px;
+	font-weight: bold;
+  }
+  
+  .close1:hover,
+  .close1:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+  }
+  
+
   .satauri {
    text-align: center;
    font-weight: bold;

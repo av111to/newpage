@@ -2457,13 +2457,13 @@ fieldset:disabled a.btn {
 
 .btn-light {
   color: #212529;
-  background-color: #f8f9fa;
+  background-color: #e1ebf5;
   border-color: #f8f9fa;
 }
 
 .btn-light:hover {
   color: #212529;
-  background-color: #e2e6ea;
+  background-color: #f9f9fa;
   border-color: #dae0e5;
 }
 

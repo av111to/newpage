@@ -4,6 +4,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;  /* distance from the bottom */
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -21,6 +22,8 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
@@ -44,6 +47,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;  /* distance from the bottom */
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -61,6 +65,8 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
@@ -85,6 +91,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -102,13 +109,15 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
   .close3 {
 	color: #aaaaaa;
 	float: right;
-	font-size: 40px;
+	font-size: 60px;
 	font-weight: bold;
   }
   
@@ -125,6 +134,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -142,6 +152,8 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
@@ -165,6 +177,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -182,6 +195,8 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
@@ -205,6 +220,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -222,6 +238,8 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
@@ -245,6 +263,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -262,6 +281,8 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
@@ -285,6 +306,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -302,6 +324,8 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
@@ -326,6 +350,7 @@
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -343,13 +368,15 @@
 	border: 1px solid #888;
 	width: 70%;
 	height: flex;
+	text-align: justify;
+	word-break: break-all;
   }
   
   /* The Close Button */
   .close1 {
 	color: #aaaaaa;
 	float: right;
-	font-size: 40px;
+	font-size: 60px;
 	font-weight: bold;
   }
   

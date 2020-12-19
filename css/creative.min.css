@@ -7553,6 +7553,7 @@ button.bg-dark:focus {
 .mt-5,
 .my-5 {
   margin-top: 3rem !important;
+
 }
 
 .mr-5,
@@ -7563,6 +7564,7 @@ button.bg-dark:focus {
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
+  font-family: roboto condensed;
 }
 
 .ml-5,
@@ -9664,6 +9666,7 @@ header.masthead {
 
 header.masthead h1 {
   font-size: 2.25rem;
+  font-family: roboto condensed
 }
 
 @media (min-width: 992px) {

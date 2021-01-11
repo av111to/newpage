@@ -375,11 +375,11 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h3, .h3 {
-  font-size: 1.75rem;
+  font-size: 1.25rem;
 }
 
 h4, .h4 {
@@ -9672,9 +9672,9 @@ header.masthead h1 {
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
-    min-height: 40rem;
+    min-height: 80rem;
     padding-top: 72px;
-    padding-bottom: 0;
+    padding-bottom: 30px;
   }
   header.masthead p {
     font-size: 1.15rem;
@@ -9686,7 +9686,7 @@ header.masthead h1 {
 
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 3.5rem;
+    font-size: 6rem;
   }
 }
 

@@ -1,10 +1,11 @@
 /* Modal-konsul honorowy*/
-.modal {
+  /* modul 1, Konsul Honorowy Gruzji w Polsce */
+  .modal1 {
 	display: none; /* Hidden by default */
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
-	padding-bottom: 100px;  /* distance from the bottom */
+	padding-bottom: 100px;
 	left: 0;
 	top: 0;
 	width: 100%; /* Full width */
@@ -15,7 +16,7 @@
   }
   
   /* Modal Content */
-  .modal-content {
+  .modal-content1 {
 	background-color: #fefefe;
 	margin: auto;
 	padding: 20px;
@@ -27,15 +28,18 @@
   }
   
   /* The Close Button */
-  .close {
-	color: #aaaaaa;
+  .close1 {
+	color: #faf9f9;
 	float: right;
+	position: fixed;
+    right: 6%;
 	font-size: 60px;
 	font-weight: bold;
+	
   }
   
-  .close:hover,
-  .close:focus {
+  .close1:hover,
+  .close1:focus {
 	color: #000;
 	text-decoration: none;
 	cursor: pointer;
@@ -71,8 +75,10 @@
   
   /* The Close Button */
   .close2 {
-	color: #aaaaaa;
+	color: #faf9f9;
 	float: right;
+	position: fixed;
+    right: 6%;
 	font-size: 60px;
 	font-weight: bold;
   }
@@ -115,9 +121,11 @@
   
   /* The Close Button */
   .close3 {
-	color: #aaaaaa;
+	color: #faf9f9;
 	float: right;
-	font-size: 60px;
+	position: fixed;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
   }
   
@@ -344,48 +352,7 @@
   }
 
 
-   /* modul 1, Konsul Honorowy Gruzji w Polsce */
-.modal1 {
-	display: none; /* Hidden by default */
-	position: fixed; /* Stay in place */
-	z-index: 1; /* Sit on top */
-	padding-top: 100px; /* Location of the box */
-	padding-bottom: 100px;
-	left: 0;
-	top: 0;
-	width: 100%; /* Full width */
-	height: 100%; /* Full height */
-	overflow: auto; /* Enable scroll if needed */
-	background-color: rgb(0,0,0); /* Fallback color */
-	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-  }
-  
-  /* Modal Content */
-  .modal-content1 {
-	background-color: #fefefe;
-	margin: auto;
-	padding: 20px;
-	border: 1px solid #888;
-	width: 70%;
-	height: flex;
-	text-align: left;
-	word-break: break-word;
-  }
-  
-  /* The Close Button */
-  .close1 {
-	color: #aaaaaa;
-	float: right;
-	font-size: 60px;
-	font-weight: bold;
-  }
-  
-  .close1:hover,
-  .close1:focus {
-	color: #000;
-	text-decoration: none;
-	cursor: pointer;
-  }
+ 
   
 
   .satauri {

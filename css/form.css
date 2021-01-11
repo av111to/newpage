@@ -32,8 +32,8 @@
 	color: #faf9f9;
 	float: right;
 	position: fixed;
-    right: 6%;
-	font-size: 60px;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
 	
   }
@@ -78,8 +78,8 @@
 	color: #faf9f9;
 	float: right;
 	position: fixed;
-    right: 6%;
-	font-size: 60px;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
   }
   
@@ -166,9 +166,11 @@
   
   /* The Close Button */
   .close4 {
-	color: #aaaaaa;
+	color: #faf9f9;
 	float: right;
-	font-size: 60px;
+	position: fixed;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
   }
   
@@ -209,9 +211,11 @@
   
   /* The Close Button */
   .close5 {
-	color: #aaaaaa;
+	color: #faf9f9;
 	float: right;
-	font-size: 60px;
+	position: fixed;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
   }
   
@@ -252,9 +256,11 @@
   
   /* The Close Button */
   .close6 {
-	color: #aaaaaa;
+	color: #faf9f9;
 	float: right;
-	font-size: 60px;
+	position: fixed;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
   }
   
@@ -295,9 +301,11 @@
   
   /* The Close Button */
   .close7 {
-	color: #aaaaaa;
+	color: #faf9f9;
 	float: right;
-	font-size: 60px;
+	position: fixed;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
   }
   
@@ -338,9 +346,11 @@
   
   /* The Close Button */
   .close8 {
-	color: #aaaaaa;
+	color: #faf9f9;
 	float: right;
-	font-size: 60px;
+	position: fixed;
+    right: 4%;
+	font-size: 70px;
 	font-weight: bold;
   }
   
